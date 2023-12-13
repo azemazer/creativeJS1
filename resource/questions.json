@@ -1,0 +1,86 @@
+[
+    {
+        "question"  : "Question 1",
+        "answers"   : [
+            {
+                "text"      : "Answer 1",
+                "isCorrect" : false
+            },
+            {
+                "text"      : "Answer 2",
+                "isCorrect" : true
+            },
+            {
+                "text"      : "Answer 3",
+                "isCorrect" : false
+            },
+            {
+                "text"      : "Answer 4",
+                "isCorrect" : false
+            }
+        ]
+    },
+    {
+        "question"  : "Question 2",
+        "answers"   : [
+            {
+                "text"      : "Answer 1",
+                "isCorrect" : false
+            },
+            {
+                "text"      : "Answer 2",
+                "isCorrect" : true
+            },
+            {
+                "text"      : "Answer 3",
+                "isCorrect" : false
+            },
+            {
+                "text"      : "Answer 4",
+                "isCorrect" : false
+            }
+        ]
+    },
+    {
+        "question"  : "Question 3",
+        "answers"   : [
+            {
+                "text"      : "Answer 1",
+                "isCorrect" : false
+            },
+            {
+                "text"      : "Answer 2",
+                "isCorrect" : true
+            },
+            {
+                "text"      : "Answer 3",
+                "isCorrect" : false
+            },
+            {
+                "text"      : "Answer 4",
+                "isCorrect" : false
+            }
+        ]
+    },
+    {
+        "question"  : "Question 4",
+        "answers"   : [
+            {
+                "text"      : "Answer 1",
+                "isCorrect" : false
+            },
+            {
+                "text"      : "Answer 2",
+                "isCorrect" : true
+            },
+            {
+                "text"      : "Answer 3",
+                "isCorrect" : false
+            },
+            {
+                "text"      : "Answer 4",
+                "isCorrect" : false
+            }
+        ]
+    }
+]
